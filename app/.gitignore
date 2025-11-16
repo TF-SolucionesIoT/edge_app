@@ -1,1 +1,47 @@
 /build
+
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# ART/Dalvik VM files
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (SDK path, etc)
+local.properties
+
+# IntelliJ/Android Studio files
+.idea/
+*.iml
+
+# Log files
+*.log
+
+# Android Studio captures
+captures/
+
+# NDK
+obj/
+
+# Keystores (opcional, pero recomendable evitar subirlos)
+*.jks
+*.keystore
+
+# Bundle artifacts
+*.aab
+
+# Misc
+.DS_Store
